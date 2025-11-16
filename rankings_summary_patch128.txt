@@ -1,0 +1,288 @@
+##### Rankings for RSI_mean_raw #####
+
+=== Top 10 Styles by RSI_mean_raw ===
+Style 16: 0.1145
+Style 38: 0.0965
+Style 7: 0.0930
+Style 44: 0.0875
+Style 49: 0.0797
+Style 21: 0.0775
+Style 46: 0.0734
+Style 13: 0.0725
+Style 15: 0.0720
+Style 47: 0.0698
+=== Bottom 10 Styles by RSI_mean_raw ===
+Style 32: 0.0393
+Style 24: 0.0427
+Style 3: 0.0433
+Style 45: 0.0445
+Style 14: 0.0469
+Style 18: 0.0476
+Style 35: 0.0482
+Style 39: 0.0485
+Style 37: 0.0496
+Style 9: 0.0496
+=== Top 10 Contents by RSI_mean_raw ===
+Content 17: 0.0934
+Content 49: 0.0904
+Content 21: 0.0829
+Content 13: 0.0808
+Content 19: 0.0792
+Content 42: 0.0749
+Content 2: 0.0727
+Content 35: 0.0719
+Content 43: 0.0712
+Content 39: 0.0711
+=== Bottom 10 Contents by RSI_mean_raw ===
+Content 16: 0.0423
+Content 38: 0.0434
+Content 30: 0.0462
+Content 50: 0.0465
+Content 5: 0.0474
+Content 44: 0.0477
+Content 3: 0.0482
+Content 46: 0.0494
+Content 25: 0.0499
+Content 29: 0.0503
+
+
+##### Rankings for RSI_median_raw #####
+
+=== Top 10 Styles by RSI_median_raw ===
+Style 16: 0.1144
+Style 38: 0.0947
+Style 7: 0.0931
+Style 44: 0.0874
+Style 49: 0.0797
+Style 21: 0.0776
+Style 46: 0.0735
+Style 13: 0.0722
+Style 15: 0.0717
+Style 47: 0.0698
+=== Bottom 10 Styles by RSI_median_raw ===
+Style 32: 0.0393
+Style 24: 0.0426
+Style 3: 0.0433
+Style 45: 0.0441
+Style 14: 0.0469
+Style 18: 0.0474
+Style 35: 0.0480
+Style 39: 0.0485
+Style 37: 0.0491
+Style 22: 0.0494
+=== Top 10 Contents by RSI_median_raw ===
+Content 17: 0.0934
+Content 49: 0.0903
+Content 21: 0.0827
+Content 13: 0.0807
+Content 19: 0.0789
+Content 42: 0.0748
+Content 2: 0.0726
+Content 35: 0.0718
+Content 43: 0.0711
+Content 39: 0.0710
+=== Bottom 10 Contents by RSI_median_raw ===
+Content 16: 0.0423
+Content 38: 0.0432
+Content 30: 0.0461
+Content 50: 0.0464
+Content 5: 0.0472
+Content 44: 0.0476
+Content 3: 0.0480
+Content 46: 0.0493
+Content 25: 0.0497
+Content 29: 0.0502
+
+
+##### Rankings for RSI_p90_raw #####
+
+=== Top 10 Styles by RSI_p90_raw ===
+Style 16: 0.1166
+Style 38: 0.1037
+Style 7: 0.0952
+Style 44: 0.0894
+Style 49: 0.0825
+Style 21: 0.0805
+Style 13: 0.0748
+Style 46: 0.0747
+Style 15: 0.0746
+Style 47: 0.0716
+=== Bottom 10 Styles by RSI_p90_raw ===
+Style 32: 0.0411
+Style 24: 0.0440
+Style 3: 0.0454
+Style 45: 0.0465
+Style 14: 0.0484
+Style 18: 0.0493
+Style 39: 0.0501
+Style 35: 0.0505
+Style 10: 0.0512
+Style 37: 0.0519
+=== Top 10 Contents by RSI_p90_raw ===
+Content 17: 0.0962
+Content 49: 0.0936
+Content 21: 0.0861
+Content 13: 0.0832
+Content 19: 0.0822
+Content 42: 0.0779
+Content 2: 0.0754
+Content 35: 0.0745
+Content 43: 0.0740
+Content 39: 0.0735
+=== Bottom 10 Contents by RSI_p90_raw ===
+Content 16: 0.0438
+Content 38: 0.0453
+Content 30: 0.0477
+Content 50: 0.0482
+Content 5: 0.0493
+Content 44: 0.0495
+Content 3: 0.0501
+Content 46: 0.0512
+Content 25: 0.0515
+Content 29: 0.0521
+
+
+##### Rankings for SCAR_mean_raw #####
+
+=== Top 10 Styles by SCAR_mean_raw ===
+Style 18: 0.5315
+Style 40: 0.5188
+Style 7: 0.5174
+Style 22: 0.5171
+Style 41: 0.5158
+Style 46: 0.5158
+Style 23: 0.5150
+Style 19: 0.5147
+Style 24: 0.5136
+Style 6: 0.5128
+=== Bottom 10 Styles by SCAR_mean_raw ===
+Style 38: 0.4626
+Style 13: 0.4682
+Style 15: 0.4684
+Style 1: 0.4715
+Style 28: 0.4749
+Style 2: 0.4780
+Style 12: 0.4814
+Style 42: 0.4816
+Style 5: 0.4830
+Style 43: 0.4843
+=== Top 10 Contents by SCAR_mean_raw ===
+Content 13: 0.5408
+Content 36: 0.5383
+Content 33: 0.5292
+Content 47: 0.5290
+Content 30: 0.5271
+Content 34: 0.5259
+Content 3: 0.5232
+Content 42: 0.5232
+Content 22: 0.5145
+Content 46: 0.5106
+=== Bottom 10 Contents by SCAR_mean_raw ===
+Content 43: 0.4559
+Content 9: 0.4699
+Content 18: 0.4724
+Content 31: 0.4744
+Content 45: 0.4754
+Content 6: 0.4776
+Content 15: 0.4777
+Content 25: 0.4793
+Content 38: 0.4799
+Content 26: 0.4826
+
+
+##### Rankings for SCAR_median_raw #####
+
+=== Top 10 Styles by SCAR_median_raw ===
+Style 18: 0.5630
+Style 40: 0.5377
+Style 7: 0.5348
+Style 22: 0.5341
+Style 41: 0.5317
+Style 46: 0.5315
+Style 23: 0.5299
+Style 19: 0.5294
+Style 24: 0.5272
+Style 6: 0.5255
+=== Bottom 10 Styles by SCAR_median_raw ===
+Style 38: 0.4252
+Style 13: 0.4365
+Style 15: 0.4368
+Style 1: 0.4430
+Style 28: 0.4499
+Style 2: 0.4561
+Style 12: 0.4628
+Style 42: 0.4633
+Style 5: 0.4659
+Style 43: 0.4686
+=== Top 10 Contents by SCAR_median_raw ===
+Content 13: 0.5816
+Content 36: 0.5767
+Content 33: 0.5585
+Content 47: 0.5579
+Content 30: 0.5541
+Content 34: 0.5519
+Content 3: 0.5464
+Content 42: 0.5464
+Content 22: 0.5291
+Content 46: 0.5212
+=== Bottom 10 Contents by SCAR_median_raw ===
+Content 43: 0.4118
+Content 9: 0.4397
+Content 18: 0.4448
+Content 31: 0.4489
+Content 45: 0.4508
+Content 6: 0.4552
+Content 15: 0.4555
+Content 25: 0.4587
+Content 38: 0.4597
+Content 26: 0.4653
+
+
+##### Rankings for SCAR_p90_raw #####
+
+=== Top 10 Styles by SCAR_p90_raw ===
+Style 21: 0.9226
+Style 9: 0.9170
+Style 40: 0.9161
+Style 18: 0.9133
+Style 23: 0.9123
+Style 25: 0.9120
+Style 7: 0.9119
+Style 41: 0.9116
+Style 22: 0.9103
+Style 30: 0.9088
+=== Bottom 10 Styles by SCAR_p90_raw ===
+Style 38: 0.8659
+Style 1: 0.8689
+Style 13: 0.8725
+Style 15: 0.8767
+Style 28: 0.8777
+Style 2: 0.8783
+Style 43: 0.8799
+Style 50: 0.8812
+Style 35: 0.8864
+Style 20: 0.8864
+=== Top 10 Contents by SCAR_p90_raw ===
+Content 47: 0.9302
+Content 36: 0.9241
+Content 13: 0.9167
+Content 30: 0.9130
+Content 34: 0.9100
+Content 44: 0.9099
+Content 23: 0.9086
+Content 33: 0.9061
+Content 11: 0.9054
+Content 17: 0.9043
+=== Bottom 10 Contents by SCAR_p90_raw ===
+Content 43: 0.8701
+Content 31: 0.8804
+Content 25: 0.8819
+Content 6: 0.8827
+Content 9: 0.8835
+Content 18: 0.8838
+Content 45: 0.8840
+Content 1: 0.8848
+Content 10: 0.8861
+Content 15: 0.8863
+
+
